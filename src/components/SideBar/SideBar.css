@@ -1,0 +1,14 @@
+.sidebar {
+    width: 270px;
+}
+
+.avatar {
+    width: 260px;
+    height: 260px;
+    border-radius: 50%;
+    background: #24292e;
+}
+
+.sidebar__content{
+    border-bottom: 1px solid #24292e;
+}

@@ -1,0 +1,45 @@
+.main {
+    display: flex;
+    margin-top: 30px;
+}
+
+.menu_list {
+    list-style: none;
+    display: flex;
+    width: 400px;
+    justify-content: space-between;
+}
+
+.menu_item, span {
+    font-size: 17px;
+
+}
+
+.active {
+    border-bottom: 1px solid red;
+}
+
+.content {
+    margin-left: 20px;
+}
+
+.top-block {
+    text-align: center;
+    border: 1px solid black;
+    margin-bottom: 5px;
+}
+
+.search-block {
+    width: 771px;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+}
+
+.search-block__input {
+    width: 40%;
+}
+
+.btn {
+    width: 200px;
+}
