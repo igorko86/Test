@@ -1,29 +1,26 @@
-.header {
+.navbar {
     background: #24292e;
-    height: 80px;
+    height: 70px;
     color: white;
 }
 
-.header_container {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    width: 100%;
-    height: 80px
-}
 
-.logo {
+.navbar-brand {
     font-size: 40px;
 }
 
-.sing_link {
-    text-decoration: none;
-    color: white;
+.form-control {
+    background: none;
+    border: none;
 }
 
+.btn-link{
+    padding: 4px 8px;
+    border-radius: 6px;
+    margin-left: 16px;
+}
 
-.text {
-    width: 40%;
-    display: flex;
-    justify-content: space-between;
+.btn-link:hover{
+    opacity: .8;
+    text-decoration: none;
 }

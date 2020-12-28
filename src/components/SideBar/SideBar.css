@@ -9,6 +9,11 @@
     background: #24292e;
 }
 
-.sidebar__content{
-    border-bottom: 1px solid #24292e;
+.highlights__text{
+    color: #24292e;
+}
+
+.highlights-pro-block{
+    width: 43px;
+    margin: 7px 0 10px 0;
 }
